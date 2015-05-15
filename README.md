@@ -6,7 +6,7 @@
 # Technologies:  
 HTML5, CSS3, D3.js
 # Description:  
-This final assignment has 2 parts (top and bottom) on the webpage.  
+This final assignment in D3.js has 2 parts (top and bottom) on the webpage.  
 
 The top part shows a map of the U.S. with all 50 states.  The 3 datasets involved are 
 * U.S. population in 2010
