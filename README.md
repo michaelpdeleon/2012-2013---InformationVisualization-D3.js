@@ -20,6 +20,6 @@ The bottom part shows a bar graph with a number on top.  The number represents t
 * width of the bar
 * opacity of the bar  
 
-Clicking on the bar cycles through the different sort types.  Clicking on the "Scale chart" button cycles through the different scaling values.  
+Clicking on the bar cycles through the different sort types.  Clicking on the "Scale chart" button cycles through the different scaling sizes.  
 # Screenshots:
 ![Screenshot](github/github_screenshot_iti321_d3a.jpg)  
